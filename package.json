@@ -1,0 +1,19 @@
+{
+  "name": "lucky-search",
+  "version": "1.0.0",
+  "description": "This project involves implementing a keyword search interface. The interface will enable users to search for keywords through a web search API or a local dataset search. The application will retrieve results based on the user's choice of data source.",
+  "main": "index.html",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@elastic/elasticsearch": "^8.7.0",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.22"
+  }
+}
