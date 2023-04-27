@@ -1,0 +1,46 @@
+.container 
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #492020;
+}
+  
+.logo 
+{
+    font-size: 24px;
+    font-weight: bold;
+}
+  
+form 
+{
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+}
+  
+#search-input
+{
+    padding: 8px;
+    border: none;
+    border-radius: 4px;
+    margin-right: 10px;
+}
+  
+.result 
+{
+    font-size: 18px;
+    font-weight: bold;
+}
+  
+.switch-engine button
+{
+    background-color: #ffc107;
+    color: #000;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 16px;
+    cursor: pointer;
+}
+  
