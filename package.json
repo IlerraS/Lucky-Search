@@ -4,7 +4,7 @@
   "description": "This project involves implementing a keyword search interface. The interface will enable users to search for keywords through a web search API or a local dataset search. The application will retrieve results based on the user's choice of data source.",
   "main": "index.html",
   "scripts": {
-    "start": "server.js"
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
